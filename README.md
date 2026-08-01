@@ -9,7 +9,7 @@
 
   -  ashis sivastav
   -  aditya katariya 
-  - rudra dholakiya
+  -  rudra dholakiya
 
 *tech stack *
 
