@@ -11,7 +11,7 @@
   -  aditya katariya 
   -  rudra dholakiya
 
-*tech stack *
+*tech stack*
 
   1.html   
   2.css 
