@@ -14,13 +14,8 @@
 *tech stack *
 
   1.html   
-  2.css   
-  3.js  
+  2.css 
+  3.jss
 
 
-****tech stock ***
 
-1. java script 
-2. python 
-3. css
-4. html 
