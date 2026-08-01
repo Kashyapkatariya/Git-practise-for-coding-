@@ -5,7 +5,7 @@
 ###foe the precentation 
 
 
-** team members **
+**team members**
 
   -  ashis sivastav
   -  aditya katariya 
