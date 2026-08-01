@@ -7,9 +7,9 @@
 
 ** team members **
 
-  -ashis sivastav
-  -aditya katariya 
-  -rudra dholakiya
+  -  ashis sivastav
+  -  aditya katariya 
+  - rudra dholakiya
 
 *tech stack *
 
