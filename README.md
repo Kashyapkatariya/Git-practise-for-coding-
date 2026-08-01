@@ -20,7 +20,7 @@
 
 ****tech stock ***
 
-1.java script 
-2.python 
-3.css
-4.html 
+1. java script 
+2. python 
+3. css
+4. html 
