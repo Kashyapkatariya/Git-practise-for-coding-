@@ -1,8 +1,9 @@
 # Git-practise-for-coding-
-this is the single repo created for the understanding tha git 
+##this is the single repo created for the understanding tha git 
+###foe the precentation 
 
 
-**teen members**
+**team members**
 -ashis sivastav
 -aditya katariya 
 -rudra dholakiya
