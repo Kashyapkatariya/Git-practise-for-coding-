@@ -1,7 +1,6 @@
 # Git-practise-for-coding-
 
 
-##   this is the single repo created for the understanding tha git 
  
 
 
@@ -13,7 +12,7 @@
 
 *tech stack*
   1.html   
-  2.css 
+  2.css  
   3.js
 
 
